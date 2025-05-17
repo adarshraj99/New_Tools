@@ -3,4 +3,5 @@
 3. Can find elements by multiple elements but, that can slow down system. so, we use unique and some elements to for elements. 
 4. After adding elements, if they are not unique, it will highlight.  So, click `Identify By` dropdown from top bar > `Anchor` and also expand Filtered Items scroll to see html web tags.  
 5. If some elements are not uniquely identified.
-6. To make element group > select all elements and right click > select `select to Control Group`. 
+6. To make element group > select all elements and right click > select `select to Control Group`.
+7. Adding default Modules: Tosca have many default modules .To add :Right click on precondition > Search and add Test case or `CTRL+T`.  
